@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Ashikuzzaman**
 - GitHub: [@yourusername](https://github.com/RahatInCode)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ahmed-rahat-5a6145387/)
 - Email: ahmedrahatdev@gmail.com
