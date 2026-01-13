@@ -7,6 +7,7 @@ export default function Login() {
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     console.log("Mock login:", email, password);
+    
   }
 
   return (

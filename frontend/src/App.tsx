@@ -1,4 +1,5 @@
-import Login from "./authentication/Login";
+import Login from "./pages/Register";
+
 
 
 function App() {
