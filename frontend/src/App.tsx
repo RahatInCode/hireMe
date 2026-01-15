@@ -2,10 +2,12 @@ import Login from "./pages/Register";
 
 
 
+
 function App() {
   return (
     <>
       <Login />
+     
     </>
   );
 }
